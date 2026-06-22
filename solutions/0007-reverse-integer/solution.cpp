@@ -1,37 +1,27 @@
 class Solution {
 public:
-    int reverse(long long x) {
-        
-        long long ans=0;
-        if(x<0)
-        {
-           x = x*-1;
-           while(x>0)
-           {
-            ans = ans*10+x%10;
-            x=x/10;
-            
-           }
-           if(-1*ans<pow(-2,31))
-           {
-            return 0;
-           }
-           return -1*ans;
+    int reverse(int x) {
+        vector<int> v;
+        int sign = 1;
+
+        if (x < 0) sign = -1;
+
+        while (x) {
+            v.push_back((x % 10) * sign);
+            x /= 10;
         }
-        else
-        {
-             while(x>0)
-           {
-            ans = ans*10+x%10;
-            x=x/10;
-            
-           }
-           if(ans>pow(2,31)-1)
-           {
-            return 0;
-           }
+
+        long long ans = 0;
+
+        for (int i = 0; i < v.size(); i++) {
+            ans = ans * 10 + v[i];
         }
-        return ans;
-        
+
+        ans *= sign;
+
+        if (ans > INT_MAX || ans < INT_MIN)
+            return 0;
+
+        return (int)ans;
     }
 };
