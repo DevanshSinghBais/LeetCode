@@ -35,10 +35,12 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +49,8 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 <!---LeetCode Topics End-->
