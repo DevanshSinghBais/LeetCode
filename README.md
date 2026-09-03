@@ -40,6 +40,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +94,8 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3876-construct-uniform-parity-array-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 <!---LeetCode Topics End-->
