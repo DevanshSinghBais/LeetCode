@@ -6,16 +6,19 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 ## Linked List
@@ -107,4 +110,12 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
