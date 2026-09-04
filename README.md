@@ -42,6 +42,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
