@@ -6,6 +6,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -20,6 +21,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -37,11 +39,13 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -91,6 +95,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
