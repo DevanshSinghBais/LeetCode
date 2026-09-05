@@ -7,6 +7,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -22,6 +23,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
@@ -29,6 +31,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DevanshSinghBais/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Breadth-First Search
@@ -40,6 +43,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 ## Array
@@ -96,6 +100,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
