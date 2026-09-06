@@ -118,6 +118,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/DevanshSinghBais/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -132,6 +133,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/DevanshSinghBais/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
