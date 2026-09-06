@@ -9,6 +9,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -16,6 +17,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -25,6 +27,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -37,6 +40,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search Tree
