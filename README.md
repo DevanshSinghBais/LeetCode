@@ -11,6 +11,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
@@ -19,6 +20,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
@@ -29,6 +31,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Linked List
@@ -139,4 +142,5 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
