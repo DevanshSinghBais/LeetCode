@@ -12,6 +12,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
@@ -21,6 +22,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
@@ -32,6 +34,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Linked List
@@ -45,6 +48,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevanshSinghBais/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search Tree
@@ -54,6 +58,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
