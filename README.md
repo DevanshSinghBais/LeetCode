@@ -92,6 +92,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0835-image-overlap](https://github.com/DevanshSinghBais/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -106,6 +107,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -122,6 +124,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
