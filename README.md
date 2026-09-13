@@ -91,6 +91,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0835-image-overlap](https://github.com/DevanshSinghBais/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -125,6 +126,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -153,6 +156,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,4 +232,20 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
