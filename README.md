@@ -94,6 +94,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2079-watering-plants](https://github.com/DevanshSinghBais/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevanshSinghBais/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -136,6 +137,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2079-watering-plants](https://github.com/DevanshSinghBais/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
