@@ -10,6 +10,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -25,6 +26,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -41,6 +43,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/DevanshSinghBais/LeetCode/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -96,6 +99,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -178,6 +182,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
