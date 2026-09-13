@@ -83,6 +83,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0835-image-overlap](https://github.com/DevanshSinghBais/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -185,6 +186,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0835-image-overlap](https://github.com/DevanshSinghBais/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevanshSinghBais/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
