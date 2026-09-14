@@ -176,6 +176,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/DevanshSinghBais/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/DevanshSinghBais/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -248,4 +249,8 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/DevanshSinghBais/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
