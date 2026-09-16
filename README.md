@@ -16,6 +16,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -51,6 +52,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -81,6 +83,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Array
