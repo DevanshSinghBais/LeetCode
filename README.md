@@ -20,6 +20,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevanshSinghBais/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevanshSinghBais/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -36,6 +37,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevanshSinghBais/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevanshSinghBais/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -56,6 +58,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/DevanshSinghBais/LeetCode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevanshSinghBais/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DevanshSinghBais/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -86,6 +89,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0701-insert-into-a-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/DevanshSinghBais/LeetCode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +101,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2079-watering-plants](https://github.com/DevanshSinghBais/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -113,6 +118,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevanshSinghBais/LeetCode/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
