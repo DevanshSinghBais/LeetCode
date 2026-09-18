@@ -94,6 +94,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/DevanshSinghBais/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevanshSinghBais/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
@@ -116,6 +117,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/DevanshSinghBais/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -137,6 +139,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/DevanshSinghBais/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -186,6 +189,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/DevanshSinghBais/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/DevanshSinghBais/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
