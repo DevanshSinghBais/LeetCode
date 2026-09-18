@@ -120,6 +120,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -140,6 +141,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -186,6 +189,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0115-distinct-subsequences](https://github.com/DevanshSinghBais/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevanshSinghBais/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
