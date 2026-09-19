@@ -133,6 +133,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0165-compare-version-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -191,6 +192,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/DevanshSinghBais/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0115-distinct-subsequences](https://github.com/DevanshSinghBais/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0165-compare-version-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
