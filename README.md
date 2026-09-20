@@ -106,6 +106,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/DevanshSinghBais/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2079-watering-plants](https://github.com/DevanshSinghBais/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
