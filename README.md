@@ -196,6 +196,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0115-distinct-subsequences](https://github.com/DevanshSinghBais/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0165-compare-version-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0394-decode-string](https://github.com/DevanshSinghBais/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevanshSinghBais/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -254,6 +255,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/DevanshSinghBais/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -262,6 +264,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/DevanshSinghBais/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
