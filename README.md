@@ -121,6 +121,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/DevanshSinghBais/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/DevanshSinghBais/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0508-most-frequent-subtree-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -146,6 +147,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0049-group-anagrams](https://github.com/DevanshSinghBais/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/DevanshSinghBais/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -153,10 +155,12 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DevanshSinghBais/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DevanshSinghBais/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Simulation
@@ -199,6 +203,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0165-compare-version-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0394-decode-string](https://github.com/DevanshSinghBais/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/DevanshSinghBais/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevanshSinghBais/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
@@ -282,6 +287,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/DevanshSinghBais/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
