@@ -213,6 +213,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [1096-brace-expansion-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevanshSinghBais/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/DevanshSinghBais/LeetCode/tree/main/2096-step-by-step-directions-from-a-binary-tree-node-to-another/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -286,6 +287,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,4 +334,5 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
