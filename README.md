@@ -110,6 +110,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DevanshSinghBais/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2079-watering-plants](https://github.com/DevanshSinghBais/LeetCode/tree/main/2079-watering-plants/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DevanshSinghBais/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -279,6 +280,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DevanshSinghBais/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
