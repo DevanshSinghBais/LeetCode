@@ -210,6 +210,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0179-largest-number](https://github.com/DevanshSinghBais/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0394-decode-string](https://github.com/DevanshSinghBais/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/DevanshSinghBais/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0856-score-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -286,6 +287,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/DevanshSinghBais/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -335,6 +337,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevanshSinghBais/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
