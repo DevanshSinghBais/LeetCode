@@ -116,6 +116,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [3524-find-x-value-of-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/DevanshSinghBais/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DevanshSinghBais/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -158,6 +159,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [1096-brace-expansion-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DevanshSinghBais/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [0324-wiggle-sort-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DevanshSinghBais/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
