@@ -92,6 +92,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevanshSinghBais/LeetCode/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DevanshSinghBais/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/DevanshSinghBais/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +111,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DevanshSinghBais/LeetCode/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/DevanshSinghBais/LeetCode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
 | [2079-watering-plants](https://github.com/DevanshSinghBais/LeetCode/tree/main/2079-watering-plants/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DevanshSinghBais/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/DevanshSinghBais/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/DevanshSinghBais/LeetCode/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -159,6 +161,7 @@ Automatically synced LeetCode solutions and problem-solving practice.
 | [1096-brace-expansion-ii](https://github.com/DevanshSinghBais/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DevanshSinghBais/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1630-arithmetic-subarrays](https://github.com/DevanshSinghBais/LeetCode/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/DevanshSinghBais/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DevanshSinghBais/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
